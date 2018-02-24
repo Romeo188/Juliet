@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juliet.Web", "Juliet.Web\Juliet.Web.csproj", "{9DC93664-A3AD-495E-BCD2-BE3964762CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juliet.Tests", "Juliet.Tests\Juliet.Tests.csproj", "{EDFE2C87-5FA2-4FAC-A52C-2E5D05A228D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC93664-A3AD-495E-BCD2-BE3964762CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC93664-A3AD-495E-BCD2-BE3964762CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC93664-A3AD-495E-BCD2-BE3964762CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC93664-A3AD-495E-BCD2-BE3964762CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFE2C87-5FA2-4FAC-A52C-2E5D05A228D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFE2C87-5FA2-4FAC-A52C-2E5D05A228D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFE2C87-5FA2-4FAC-A52C-2E5D05A228D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFE2C87-5FA2-4FAC-A52C-2E5D05A228D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F59B39-3DD1-4DC7-B8A5-2CEDF4074E06}
+	EndGlobalSection
+EndGlobal
